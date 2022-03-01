@@ -1,0 +1,773 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against the erroneous, or rather blasphemous, opinions of some people in this our corrupt age; concerning the true and real cause of man's falling into those gross and notorious sins, which do commonly prove his eternal ruine. : Made plain in a short discourse, being the substance of two sermons upon the 12, 14, 15. verses of the 1st chap. of St. James. Let no man say when he is tempted, I am tempted of God, &amp;c. / By Samuel D'Assigny, a well-wisher to the Church of England's prosperity.</title>
+            <author>D'Assigny, Samuel, b. 1673 or 4</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02843</idno>
+            <idno type="STC">Wing D286</idno>
+            <idno type="STC">ESTC R171689</idno>
+            <idno type="EEBO-CITATION">49520872</idno>
+            <idno type="OCLC">ocm 49520872</idno>
+            <idno type="VID">174114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174114)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2665:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against the erroneous, or rather blasphemous, opinions of some people in this our corrupt age; concerning the true and real cause of man's falling into those gross and notorious sins, which do commonly prove his eternal ruine. : Made plain in a short discourse, being the substance of two sermons upon the 12, 14, 15. verses of the 1st chap. of St. James. Let no man say when he is tempted, I am tempted of God, &amp;c. / By Samuel D'Assigny, a well-wisher to the Church of England's prosperity.</title>
+                  <author>D'Assigny, Samuel, b. 1673 or 4</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. and S.P. at the back of Dick's Coffee-House in Skinner-Row,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded and cropped, with loss of print and pagination.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James I, 13-15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb facs="tcp:174114:1"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>HAving not in all my few labours and ſtudies either heard of, or met with any entire Treatiſe of this kind or nature, and daily perceiving the Spirit of Diſ<g ref="char:EOLhyphen"/>ſention beyond Meaſure Operating amongſt the generality of Mankind, ſo that if it were poſſible he would beguile and ſeduce the very Elect: I thought fit therefore upon a ſerious Conſideration, to endeavour to put a ſtop to the malicious Project of the Devil, who is inceſſantly ſtriving to draw men headlong into Eternal Perdition with himſelf, eſpecially by inſinuating into them ſome blaſphemous thoughts of the Almighty, according to that which you'll find mention'd in the following Diſcourſe, <hi>viz.</hi> That he has ap<g ref="char:EOLhyphen"/>pointed ſome on purpoſe, as it were, for the endleſs Torments of Hell, as well as others for the Enjoyment of Everlaſting Bliſs; and that (they being ſo voluntarily pre<g ref="char:EOLhyphen"/>deſtinated) if they did uſe all imaginable means, there can be no hopes or poſſibility of a repeal; which in my opinion, is a very great Blaſphemy, to think of ſo Wiſe and Merciful a God as ours is, who did not only vouchſafe to ſend his only begotten Son Chriſt Jeſus, to be a Propitiatory Sacrifice for all our Sins, but has left his plain written Word, whereby if Men had but Grace to Read and Practice it, they might be eaſily convinced of ſuch wicked Imaginations: He has alſo granted a Redemption and Deliverance from all Sins whatſoever, except that againſt the Holy Ghoſt, provided that Men will timely and ſincerely perform the Conditions upon which they are pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>miſed. <hi>My Courteous Reader,</hi> I ſhall not here trouble my ſelf with a ſecond Ex<g ref="char:EOLhyphen"/>poſition, but if you pleaſe diligently to peruſe the following Treatiſe, I hope, through God's Grace, you'll find full ſatisfaction concerning the whole Point: Beſides, you will find many other wicked conceits about the ſame Matter, and all of them ſingly oppoſed and confuted by the plain Word of God: Therefore I ſhall not here take time to reckon them up in their Order; neither will I recommend it to the protection of any particular Perſon, preſuming that it may be material enough in it ſelf to Challenge a Patronage from all thoſe that are any way concerned for the Intereſt and Honour of their Maker.</p>
+            <p>Now, <hi>my Chriſtian Reader,</hi> I have no more to add, for the better offering of it to thy kind acceptation, but only this ſeaſonable Admonition, <hi>viz.</hi> Be not too curious, too inquiſitive, in ſearching after thoſe things, which God is not pleaſed to Commu<g ref="char:EOLhyphen"/>nicate to any humane Capacity, according to that excellent Maxim in Philoſophy, <hi>quae ſupra nos, nihil ad nos;</hi> But yet above all, be careful and diligent to know and underſtand thoſe things which eſpecially belong to thy Spiritual and Eternal Wel<g ref="char:EOLhyphen"/>fare, always remembring that no Man can be too circumſpect in a buſineſs of ſo great a Moment; which that you, and I, and all may do, God of his infinite Mercy grant, <hi>&amp;c.</hi> Farewel,</p>
+            <closer>
+               <signed>S. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:174114:1"/>
+            <head>An Antidote againſt the Erroneous, or rather Blaſphemous, Opinions of ſome People in this our Cor<g ref="char:EOLhyphen"/>rupt Age, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>James 1ſt. 13, 14, 15. Verſes.</hi>
+                  </bibl>
+                  <p>Let no man ſay when he is tempted, I am tempted of God, for God cannot be tempted with Evil, neither tempteth he any Man.</p>
+                  <p>But every Man is tempted when he is drawn away of his own Luſt and entic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</p>
+                  <p>Then when Luſt hath conceived it bringeth Sin, and Sin when it is finiſhed, bringeth forth Death.</p>
+               </q>
+            </epigraph>
+            <p>ALthough all Scripture are inſpired by one and the ſame Spirit of Truth, yet have they an accidental difference, according to the Nature of the <hi>Pen-men</hi> that did firſt indite them, ſome be<g ref="char:EOLhyphen"/>ing of a higher, others of a lower Style; ſome hard and in<g ref="char:EOLhyphen"/>tricate, others more plain and eaſie to be underſtood.</p>
+            <p>And this, I preſume, it was that occaſioned St. <hi>Gregory</hi> to compare ſome Scriptures unto <hi>Jacob</hi>'s haſty Rods, which were partly peeled, and partly covered; others unto <hi>Acab</hi>'s houſe of Ivory, which was without any cover<g ref="char:EOLhyphen"/>ing at all.</p>
+            <p>The Scripture which I have now mentioned unto you, is of the former ſort, hard and difficult to be underſtood: It craveth therefore your beſt attention whilſt it is interpreted, and your chiefeſt affection when it is ap<g ref="char:EOLhyphen"/>plyed; I will firſt briefly and plainly, as I can, lay down the general heads, and afterwards come unto the particulars.</p>
+            <p n="1">1. We have here a full and compleat propoſition, <hi>viz.</hi> That God is not the mover unto evil, nor the author of Sin:</p>
+            <p>
+               <hi>Let no man ſay when he is tempted, I am tempted of God.</hi>
+            </p>
+            <p n="2">2. The Apoſtle confirms and ſtrengthens this propoſition by two Argu<g ref="char:EOLhyphen"/>ments in the following Words. The firſt whereof is drawn from the
+<pb facs="tcp:174114:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:174114:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174114:3"/>of God's divine Nature, and is partly Negative, and partly Affir<g ref="char:EOLhyphen"/>mative.</p>
+            <list>
+               <item>1. Negative, <hi>He cannot be tempted with Evil.</hi>
+               </item>
+               <item>2. Affirmative, <hi>He tempteth no Man.</hi>
+               </item>
+            </list>
+            <p n="2">2. The ſecond Argument is drawn from the Corruption of Man's own Nature, ariſing out of the verſe following, where the Apoſtle ſetteth down the true and efficient Cauſe of Sin, which is our own concupiſcence and deſire; <hi>For every man is tempted when he is drawn by his own Luſt and enticed.</hi>
+            </p>
+            <p>And in the next place, by a kind of gradation, he proceeds further to ſhew us our Corruption, <hi>in ſemine, in germire, in fructu,</hi> in the ſeed, in the bud, in the fruit.</p>
+            <p>In the ſeed there is, <hi>concupiſcentia titillans,</hi> pleaſing concupiſcence, in the bud there is, <hi>concupiſcentia provocans,</hi> willing concupiſcence, and in the fruit there is, <hi>concupiſcentia proveniens,</hi> actual concupiſcence: And then follows the effect which this bitter Root doth produce, and that is Death; <hi>When Lust hath conceived, it bringeth forth ſin, and ſin being finiſhed bringeth forth Death</hi> and Deſtruction, both to Body and Soul.</p>
+            <p>Theſe are parts that I chiefly deſign to inſiſt upon, that I may thereby vindicate the Honour and Juſtice of God, from the Blaſphemous thoughts of wicked and obſtinate People.</p>
+            <p>This Propoſition is the firſt point, that God is not the Mover unto Evil, nor the Author of Sin: A point, I muſt needs confeſs, very hard and intricate, if rightly weighed and conſidered; and if we take it in its full latitude, it will bring us to underſtand, if it were poſſible to be compre<g ref="char:EOLhyphen"/>hended, how far God hath a hand in the actions of ſinning: A point ſo high as the higheſt Heavens, and dwelleth in Light as unſearchable as God himſelf, covered with a Curtain of Sacred ſecreſy, which ſhall never be drawn aſide; for who is able to apprehend (that hath his habitation here upon Earth, and his dwellings amongſt us Mortals) how far the Council of God goeth in ordering and diſpoſing of ſinful actions.</p>
+            <p>The <hi>Manichees</hi> were here driven to ſuch a ſtrait, that they fram'd two Gods unto themſelves, to the end that they might acquit one from being ac<g ref="char:EOLhyphen"/>ceſſary unto Evil. 1. They called a good God the Father of Chriſt, and the Author of the New Teſtament; But the other they ſurmiſed to be Evil, and the Author of the Old. And this they ſay was he, who is ſaid to have hardened <hi>Pharoah</hi>'s heart, to bid <hi>Shemei</hi> curſe <hi>David;</hi> and laſtly to have delivered the Gentiles unto a reprobate ſenſe, <hi>Rom.</hi> 1.24. But, alas! fooliſh men, they were deceived, for the Apoſtle tells us plainly, <hi>Eph.</hi> 4.6. That there is but one Lord, and one God, and Father of all, who is above all, and through all, and in you all.</p>
+            <p>
+               <pb n="5" facs="tcp:174114:3"/>And St. <hi>James</hi> ſaith here in the Text that he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> one that can<g ref="char:EOLhyphen"/>not be moved or tempted unto Evil: But I will leave this Error of theirs, and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me nearer unto our ſelves: There is a great Error about this point, and I ſuppoſe it to be in two extreams.</p>
+            <p>The 1ſt is of thoſe who maliciouſly ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e God to be the Author o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sin; theſe are the ſenſual Libertines of our Age, who rub their Filthineſs and Licentiouſneſs upon God's Purity.</p>
+            <p>
+               <hi>2dly,</hi> The others are thoſe who think that God doth only ſuffer and per<g ref="char:EOLhyphen"/>mit <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and ſo they make him like a King, ſitting upon a Scaffold, to be<g ref="char:EOLhyphen"/>hold a Stratagem; or as if his G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dhead were bound up, and reſtrained like <hi>Sarr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>'s Arms, that he could not uſe it.</p>
+            <p>Either of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Opini<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns do ſeem r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally to deny the Godhead it ſelf, the one deſtroying the Goodneſs and Divin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Juſtice of the Deity in that they charge God to be the author of Sin: The other his Omnipotence and Pro<g ref="char:EOLhyphen"/>vidence in that they bereave him of a great part of his Honour.</p>
+            <p>The latter of theſe poſitions is very true, that God doth permit ſin, and ſound and Catholick enough if more were added unto it, as you ſhall find in the explication of the point in hand: But the other is filled to the brim with monſtrous Impiety; for if the very damned Spirits in Hell might be heard to ſpeak againſt God, what could they ſay to deprave him more than this?</p>
+            <p>Indeed the very beſt of us all, no doubt, have ſinned, and that moſt pre<g ref="char:EOLhyphen"/>ſumptuouſly too, and have moſt highly violated the Sacred Laws of our Maker: But that God cauſed us ſo to do, is, I ſay, a moſt damnable and re<g ref="char:EOLhyphen"/>probate Thought, that any Veſſel of Clay can conceive of his Maker, who is abſolutely good, and neither is, nor can be, tempted with evil.</p>
+            <p>And yet our Adverſaries, the Papiſts, have not ſtuck to father the birth of this prodigious Monſter upon our Church it ſelf, by affirming that we maintain it as a point of Doctrine, that God is the Mover unto evil, and ſo conſequently the Author of ſin: I ſay our Church never affirm'd it, and to redeem a thouſand Deaths if more were due unto our ſins, we would not.</p>
+            <p>'Tis true, this we ſay, that whatſoever hath ſubſtance, being and perfecti<g ref="char:EOLhyphen"/>on in the action of ſin, God is the Author of it, becauſe it is good, and pro<g ref="char:EOLhyphen"/>ceedeth from him <hi>in whom we live, and move, and have our being,</hi> Acts 17.28. Our life, our motion, our being is from God; he is, <hi>Anima Mundi,</hi> the very Life and Soul of the World. A Poet of the Gentiles did firſt deliver it, but now an Apoſtle of ours hath ratified it, and ſanctified it for a truth. Our Life is God's, whether we live to him as we ought to do, or to the Luſts of the Fleſh, or after the pleaſure of the God of this World, the Prince of Darkneſs. Our Motion is his, whether we lift up our hands to Prayer, or to Murther, or to Stealth, or any other Out-rage. Our Eſſence is
+<pb n="6" facs="tcp:174114:4"/>alſo God's, the nature, being, and ſubſtance of man, of reprobate Angels, and others are from him, and his good Creatures, for he made all thin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good, and not evil. So that ſtill I ſay, God, thus ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, is a worker in Temptati<g ref="char:EOLhyphen"/>on, or may be ſaid to have a hand in Sinnin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for in ſin, you muſt know, there is a poſitive and peccative port, nature and corruption, action and defect; now God is the Author of the former, but not of the latter: As for Example, in the ſtriking of a jarring and untuned Inſtrument, the playing and ſingering is from the Perſon, but the jarring &amp; diſcord is in the Inſtru<g ref="char:EOLhyphen"/>ment: So God is the Author of every acti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, but not of wickedneſs in any action. But would you ſee it yet more plain by an example out of the Book of God, then let <hi>Cain</hi> be the man, <hi>Gen.</hi> 4.5. we read that becauſe <hi>Cain's</hi> Sacrifice was rejected, and his Brother's accepted, he was exceeding wrath, his countenance fell, and he had a purpoſe to ſlay his Brother: Now <hi>Cain</hi> could never have thought of the death of <hi>Abel,</hi> his eyes could never have ſeen any offenſive thing in his accepted Sacrifice, nor his heart have proſecuted with deſire, nor his hands have executed with power ſo unnatural a fact, if God had not given him ſtrength and activity to have uſed the ſervice of all theſe faculties.</p>
+            <p>To think, to deſire, to move the parts of the Body, are the good Crea<g ref="char:EOLhyphen"/>tures of God, and therein conſiſteth the action of God: But to turn theſe gifts of God unto ſo wicked, and vile a purpoſe, as to murther his Brother, was the ſin of <hi>Cain</hi> himſelf, the fault of the action proper to him alone. And ſo in all our motions and actions God hath a hand in them, as far as they are righteous and good, but as they are evil and ſinful, they chiefly proceed from the impure fountains of our hearts, for God can no way be touch'd with evil.</p>
+            <p n="2">2. God may be ſaid to move unto Evil, <hi>per p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivationem gratiae ſuae,</hi> by withdrawing his Grace; and in this ſence ſaith St. <hi>Chriſoſtome,</hi> God is ſaid to give over unto a reprobate ſence, to harden, to blind, to tempt unto evil: <hi>Non quod haec a Deo ſiunt, quippè cùm a pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pria hominis m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a provenient, ſed quià Deo juſtè homines deſerente, haec illis contingunt,</hi> Not that theſe things are done by God himſelf, for they proceed from the malice of men, but becauſe while he doth fully forſake men for their obſtinacy and rebellion againſt him, theſe things do commonly overtake them. And to the ſame purpoſe is that of St. <hi>Auſtin, Indurare dicitur Deus quèm mollire noluerit,</hi> God is ſaid to harden whom he will not molliſie, <hi>Et ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae care quem illummare noluerit,</hi> and to blind them whom he will not illuminate; ſo he hardned <hi>Pharoah</hi>'s heart, and blinded the falſe Prophets.</p>
+            <p>Neither may we here arraign God of injuſtice, becauſe it is lawful for him to do what he pleaſeth with his own: He hath power over his Clay, to make of it at his pleaſure, either in Judgement, a veſſel of Diſhonour, or in Mercy, a Veſſel of Honour: And the Clay may not ſay to the Potter, why haſt thou made me thus or thus.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:174114:4"/>3. God may be ſaid to move unto evil by offering occaſions and objects, to try whether a Man will ſin or not: As for Example, A Maſter ſuſpecting his Servant to be falſe and thieviſh, lays ſomething of conſiderable value in his way, to try if he will ſteal it, which if he does, the Maſter having found his theft, will not only expoſe him to the world for a Rogue and Deceiver, but will for ever after ſuſpect his fidelity and truſt; now this Tryal is no ſin in the Maſter, altho' the theft be a great one in the Servant: Even ſo it is with God, we muſt not faſion my injuſtice on him, becauſe he tryeth and proveth us by occaſions and objects, for they are things good in themſelves, tho' we pervert them unto evil ends.</p>
+            <p>
+               <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes</hi> wrought many ſigns and wonders in the Land of <hi>Egypt,</hi> which were good in themſelves, and yet proved as means to harden <hi>Pharoah</hi>'s heart, not ſo intended by God, but ſo perverted by his malicious temper. Thus we ſee that the Wicked and Blaſphemous Opinions of thoſe who make God to be the Author of ſin, and ſo charge him with our impieties, are abſolute<g ref="char:EOLhyphen"/>ly falſe, for he is not evil himſelf, neither tempteth he any Man unto evil.</p>
+            <p>I come now to the ſecond Opinion, <hi>viz.</hi> of thoſe who make God to be the only ſufferer and permitter of evil, which I confeſs is but an Error of humanity, many offending herein rather through infirmity than malice: They ſpeak a truth of God, when they acknowledge his permiſſion of ſin, but not the whole truth, becauſe they think he only permitteth it, and ſo they make him an idle ſpectator of all our actions: But for our ſure proceeding herein, let us take along with us theſe three Notes, <hi>viz.</hi> That God doth <hi>prae<g ref="char:EOLhyphen"/>ſcire, permittere, &amp; ordinare peccatum,</hi> foreſee, permit, and diſpoſe of the ſinful actions of Men.</p>
+            <p n="1">1. He foreſeeth ſin, he foreſaw the iniquity of <hi>Eſau,</hi> long before his be<g ref="char:EOLhyphen"/>ing, and the ſentence of reprobation was denounced againſt him before he had done <hi>either g od or evil,</hi> Rom. 9.11. He foretold the infidelity of the Jews, (ſaith St. <hi>Auſtine</hi>) and their malicious purpoſe in complotting the Death of the Son of God: What of that? <hi>praedixit non fecit,</hi> he only fore<g ref="char:EOLhyphen"/>told it, but did not work it: <hi>Vidit ab aeterno</hi> (ſaith <hi>Lipſius</hi>) <hi>ſed vidit non coegit ſcivit non ſanxit, praedixit, non praeſcripſit:</hi> He ſaw it from all Eternity, but he only ſaw it, enforced it not, knew it, decreed it not, foretold it, preſcribed it not.</p>
+            <p n="2">2. As the Lord foreſeeth ſin, and yet is not the author of evil, ſo he per<g ref="char:EOLhyphen"/>mitteth ſin to be done in the World: He ſuffered the <hi>Amorites</hi> to go on in their wickedneſs, and telleth <hi>Abraham</hi> that it was not yet full, <hi>Gen.</hi> 15.16. He ſuffered <hi>Shemei</hi> to curſe <hi>David,</hi> as we read in the 16th <hi>Chap.</hi> 2d Book of <hi>Samuel:</hi> I omit ſeveral other places of Scripture, of leſs importance, be<g ref="char:EOLhyphen"/>cauſe it is ſo true, that it needs no proof, for there is nothing viſibly or ſen<g ref="char:EOLhyphen"/>ſibly done within the compaſs of the whole World, which is not either commanded or tollerated from the Court of the higheſt Emperor.</p>
+            <p>
+               <pb n="8" facs="tcp:174114:5"/>He ſuffers his own Children to be tempted, that they may not be ex<g ref="char:EOLhyphen"/>alted above meaſure, and that they may know the Power of the Lord, and the proof of his Armour.</p>
+            <p>And thus he ſuffers the wicked alſo to go on in their wickedneſs, that their Condemnation may be greater.</p>
+            <p n="3">3. As he foreſeeth and permitteth evil, ſo he ordereth and diſpoſeth of it, as ſeemeth beſt to his Godly Wiſdom, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or as he is a moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Creator of good Natures, ſo he is a moſt righteous diſpoſer, of the evil wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and ſia<g ref="char:EOLhyphen"/>ful actions of Mankind.</p>
+            <p>Look upon that unnatural ſin in ſelling <hi>Joſeph</hi> into <hi>Egypt,</hi> and you ſhall ſee it there ſo plainly delivered, that no man need to doubt, I wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not take time to recite the whole Hiſtory, the words, which eſpecially make for our preſent purpoſe, are theſe in the 45th Chap. <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 8th Verſe. <hi>It was not you that ſent me hither, but God,</hi> and at the 50th Chap. of the ſame Book and 20th Verſe, <hi>Ye thought evil againſt me, but God meant it unto good, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bring to paſs as it is this day, to ſave much People alive:</hi> Obſerve, they thought evil, God diſpoſeth it unto good, their minds were wholly bent with malice and envy towards their Brother, whilſt God's providence was working how to ſerve them in a famine, and to ſave much People alive. Thus you ſee that the Lord doth not only foreſee and permit evil to be done in the World, but in the very doing of it, his Providence is buſy, how to order and di<g ref="char:EOLhyphen"/>ſpoſe of it, that he may bring it to ſome good Event: I will now join all theſe three together, <hi>viz.</hi> The Pre-ſcience, the Permiſſion and Providence of God in the action of ſinning, and ſo couch them under one Example, and that ſhall be in the ſeducement and fall of <hi>Ahab,</hi> as we have it in the 22d Chap. of the firſt Book of <hi>Kings,</hi> at the 19th Verſe; It is a place, I muſt needs confeſs, that hath been ſtrongly urg'd to tax God of injuſtice, for it ſeems God did not only permit the falſe Spirits to ſeduce <hi>Ahab,</hi> but giveth encouragement alſo, ſaying, <hi>thou ſhalt prevail,</hi> adding a commandment <hi>go forth,</hi> and likewiſe allowing of the form of acting in the matter <hi>do ſo.</hi>
+            </p>
+            <p>Now that you may know how innocent God is in an action of ſuch a pre<g ref="char:EOLhyphen"/>judice, obſerve well the circumſtances of the place, and the thing inten<g ref="char:EOLhyphen"/>ded, the thing deſigned was that <hi>Ahab</hi> ſhould fall at <hi>Ramoth Gilead:</hi> and con<g ref="char:EOLhyphen"/>cerning the means, inquiry was made, who ſhould entice <hi>Ahab,</hi> becauſe it was not in the nature of God himſelf to effect it, therefore that which he doth, he doth by a falſe Spirit, one of <hi>Satan</hi>'s Band and Retinue.</p>
+            <p>But obſerve alſo, God infuſeth no miſchief into the Spirit, he comes fur<g ref="char:EOLhyphen"/>niſhed of himſelf, for when one ſaid thus, and another thus, he proffered his ſervice, ſaying, I will entice him, when God demanded the means, he invented the practice, I will be, ſaith he, a falſe Spirit in the mouth of his Prophets.</p>
+            <p>
+               <pb n="9" facs="tcp:174114:5"/>Now what were theſe Prophets of <hi>Ahab</hi> they were a faithleſs Generation, whoſe guile it was, either for reward or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour of the King to ſay they had dreamed, when it was not ſo, and that the Lord had ſaid it when he never ſpake it; ſo you ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e there is h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Malice in the Spirit, and falſhood in the Prophets, before God had any hand in the Matter: Therefore what doth the Lord therein? Wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, he ſitteth upon the Throne as the Judg and Mo<g ref="char:EOLhyphen"/>derator of the whole Action; He Commandeth the Attendance of all the Army of Heaven on the Right Hand, and on the Left, both clean and un<g ref="char:EOLhyphen"/>clean Spirits are in Subj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction unto him: He giveth leave then unto the Spi<g ref="char:EOLhyphen"/>rit, who, without his permiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion is unable to do any thing.</p>
+            <p>Thou <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſaith be and then he giveth the Succeſs, which all the Devils in Hell, c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> effect, if he would have reſiſted it: Therefore ſaith he <hi>th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhal prev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t,</hi> and then he biddeth him go, and he goes; run, and he ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: And <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly, he diſpoſeth the Courſe, do ſo, <hi>i. e.</hi> do ſo, and no more than ſo; which is us much, as if he had ſaid, ſince thou haſt Malice to be<g ref="char:EOLhyphen"/>ſtow, Extend it upon <hi>Ahab,</hi> rather than upon <hi>Je<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>phaphat,</hi> and falſhood to infuſe, power it forth upon the four hundred Prophets of <hi>Ahab,</hi> rather than upon <hi>Micah'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Prophets of mine: And let the fall of <hi>Ahab</hi> be at <hi>R<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>th G<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d,</hi> rather than at any other place; And in this Battle with the King of <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> rather than at any other time. Thus when the Mat<g ref="char:EOLhyphen"/>ter is thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own, God giveth the Faſhoning and Ordering thereof, in ſome ſort touching the Perſons, time, and place, and other the like particulars.</p>
+            <p>I hope Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der by this time you are ſufficiently convinc'd, that in the Acti<g ref="char:EOLhyphen"/>ons of ſinful Men there is more to be deem'd of God than his bare permiſſion: for doubtleſs he hath his will therein, miſtake me not I beſeech you, I mean not <hi>Vo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntaetem Appr ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onis, His will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Approbation,</hi> as if the Lord did either Allure, Counſell, or Compel unto Evil: But I m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an <hi>Volunt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tem Providentiae, His Provident W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> whereby the Lord doth order and govern ſinful Acti<g ref="char:EOLhyphen"/>ons in applying them to better ends, then the Offend<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s are aware off: For God ſaith <hi>the Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phet is of pure <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es and can be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld n W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dneſs,</hi> his Soul hateth and abhorteth Sin: His Law to this ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> day curſeth and condemn<g ref="char:EOLhyphen"/>eth Sin, his hands have ſmitten and ſcour<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; He hath thrown down Angels from Leaven, pla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon E <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>rted whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ki<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>doms, deſtroyed whole <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ies and Corporations, and not ſpared his own Son Chriſt Jeſus, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he appeared in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>militude of ſinful Fleſh.</p>
+            <p>He hath drow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the World with a Flood of Waters already, and will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er aſter conſume it wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fire <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Sin: He hath threatned Tri<g ref="char:EOLhyphen"/>bu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion, An<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſh and D<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> unto a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Workers of Iniquity, and that Sentence of his ſhaft fraud more Stable than all the Marble Pillars upon Earth, and endure longer than the days of Heaven.</p>
+            <p>
+               <pb facs="tcp:174114:6"/>If then his Indignation againſt Sin be ſuch, Who can accuſe him to be the Author of it.</p>
+            <p>Let God then be true, and let all Men be Lyars, let God be juſt, and let all Men be ſinners: Let him be juſtified in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in his ſay<g ref="char:EOLhyphen"/>ings, and then let all his a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s vaniſh and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away like the foam upon the Waters. But as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Lord, let them ſtand faſt as M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nat <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t them ſtand faſt in Love, faſt in Faith, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve that they keep his Commandments, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not from Grace, faſt in hope, that they deſpair <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ance, that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one day enjoy the Rivers of plea<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in the Kingdom of Heaven for evermore.</p>
+            <p>And now I am come to the firſt argument, whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Apoſtle produceth here to prove the former propoſitions, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediately drawn from the purity of God's Divine Nature, being partly Negative, and partly Af<g ref="char:EOLhyphen"/>firmative:</p>
+            <p>Firſt, Negative, And therein the Apoſtle denyeth God to be tempted with evil.</p>
+            <p>Secondly, Afirmative, And therein he averreth that he tempted no man.</p>
+            <p>I ſhall begin firſt with the Negative part, <hi>God cannot be tempted with evil.</hi> As if the Apoſtle ſhould have ſaid here, God is in nature ſo pure, that he cannot be ſtained; in Will ſo ſtable, that he cannot be moved; in Wiſdom ſo wiſe, that he cannot be deceived; and in Liberty ſo free, that he cannot be compelled unto Evil; He is Light, and there is no Darkneſs, either of Error or Ignorance, in him; He is goodneſs, and there is no evil of ſin, which can contaminate or defile his divine Nature; He is good <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp; ext<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe,</hi> in himſelf, and without himſelf; in himſelf, as being the Father of all Goodneſs, for there is no goodneſs upon Earth, but what is derived from him; In which ſenſe our Savour ſaith <hi>there is none good but God;</hi> He is <hi>ipſa <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> Goodneſs it ſelf, his Nature is Goodneſs, and from him, as from an Ocean, flow all the ſtreams of Goodneſs into the World: He is exceeding good without himſelf, I mean unto all his Creatures in general, whether you conſider him in his Creation, or in his Preſervation of them.</p>
+            <p n="1">1. In his Creation, there was not a Work that paſſed his fingers with<g ref="char:EOLhyphen"/>out the approbation of his Jugdment, <hi>Behold it was good, and very good, and God ſaw that it was good,</hi> Gen. 1.10.</p>
+            <p n="2">2. In his Preſervation; <hi>For he opened his hands, and filleth all things living with his Bleſſings, the whole Earth is full of his Goodneſs,</hi> (ſaith the Pſalmiſt) <hi>and his Mercies are over all his Works. He is alſo exceeding good unto his choſen, unto his</hi> Iſrael, <hi>unto thoſe that are of a pure heart,</hi> Pſal. 73.1.</p>
+            <p>
+               <pb facs="tcp:174114:6"/>Do you diſtruſt of his righteouſneſs? Ask as proud and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ate a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ner as ever tranſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſed, <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>areah</hi> by name, and he will tell you, that the Lord is righteous, though he and his people were wicked, <hi>Exod.</hi> 9.27.</p>
+            <p>Ask but the m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers of humane Wiſdom, and they will inform you in this be<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of him, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ans is unjuſt, but as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. A <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Queſtion, why the Gods do good? Anſwereth himſelf, <hi>N<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> their Nature is the cauſe; they neither take, nor do wrong, they neither give, nor have miſ<g ref="char:EOLhyphen"/>chief in them.</p>
+            <p>I am come now to the ſecond <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rmative part, <hi>viz.</hi> As he is in Nature ſo pure, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tempted himſelf, ſo likewiſe tempteth he no man <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> doth not pe<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>de men unto ſin, not does <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e approve of it, when <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; For <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> art <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot a God, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> (ſaith the Prophet) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.4. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eather ſhall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh ſhall not ſtand in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſight, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſt all them that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>If then God neither move men unto ſin, nor command it when it is com<g ref="char:EOLhyphen"/>mitted, nor aſſiſt the committers of it, becauſe his Nature is ſo good, that he can neither tempt, nor he tempted unto evil, in no wiſe then certainly is he the <hi>Author of Sins,</hi> For<g ref="char:punc">▪</g> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui borus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</hi> (ſaith <hi>P<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> mal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum cauſa dici non <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſt;</hi> And it is an excellent ſpeech which St. <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> hath to this pur<g ref="char:EOLhyphen"/>poſe; <hi>Fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i non poteſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a peccatis ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cum in peccata deci<g ref="char:EOLhyphen"/>datur:</hi> It cannot be that men ſhould <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll, or be driven into ſin by him, through whom they have their Reſurrection from ſin; for ſurely, if he did truly and properly throw them down, he would never be ſo willing to raiſe them up. Many have been reſtrained and held up by God's Grace, that they might not fall into diſparate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but none have been by him occaſion'd to fall, for <hi>he tempteth no man unto <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l.</hi>
+            </p>
+            <p>Doth God tempt no man unto evil? why then (may ſome ſay) do the Scriptures ſeem to ſpeak ſo plainly to this purpoſe? why is it ſaid of God, <hi>Exod.</hi> 4.21. <hi>I will harden</hi> Pharoah<hi>'s heart, that he ſhall not let the People go:</hi> And <hi>Exod.</hi> 7.22. we read that <hi>Pharoah</hi>'s heart was harden'd, neither <hi>did he hearken unto them, as the Lord had ſaid.</hi> And <hi>Rom.</hi> 1.24. it is ſaid of the Gentiles, that the Lord delivered them up unto a reprobate ſenſe: Nay, the Prophet <hi>Jeremiah</hi> chargeth God to his face, in the 4th Chap at the 10th Verſe, Then <hi>ſaid I, ah Lord God! ſurely thou deceiv'd this People and</hi> Jeruſalem, <hi>ſaying ye ſhall have Peace, whereas the Sword reacheth unto the Soul.</hi>
+            </p>
+            <p>And the Lord himſelf in plainer terms taketh it upon himſelf, <hi>Ezek.</hi> 14.9. <hi>If the Prophet be deceived when he hath ſpoken a thing, I the Lord have deceived that Prophet:</hi> And in the 2d Chap. 2 Epiſt. to the <hi>Theſſ.</hi> at the 11th Verſe, <hi>God ſhall ſend them ſtrong Deluſions, that they ſhould believe a lye.</hi>
+            </p>
+            <p>If ſo, how doth our Apoſtle ſpeak a truth here, when he ſaith <hi>God tempteth no man unto evil,</hi>
+            </p>
+            <p>
+               <pb facs="tcp:174114:7"/>For the better explication of theſe myſterious Expreſſions, and withal to make it appear unto you, how God ſhall be juſt, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t bath the natures and workers of ſuch wickedneſs ſhall be aſham'd before him: Take, I be<g ref="char:EOLhyphen"/>ſeech you, ſeriouſly theſe two things into your Chriſtian conſideration.</p>
+            <p>Firſt, That in all the Scriptures before alledged, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made of ſome precedent Iniquity in thoſe ungracious Perſons, wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> God ſo dealeth with, deſerving and procuring the hand of God t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, heavily upon them.</p>
+            <p>Hath God hardned <hi>Pharoah,</hi> ſurely <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>h</hi> ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> himſelf, <hi>Exod.</hi> 8 32. <hi>Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ities oft Hominum peccatum O <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo it was with this Obſtinate Sinner, (ſaith S. <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi>) <hi>D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Ju<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> per l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erum a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trium,</hi> God hardned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by his juſt Judg<g ref="char:EOLhyphen"/>ment, but <hi>Pharoah</hi> firſt hardned himſelf by his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> free Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l. Did he give over the Gentiles to a reprobate Senſe? Filthineſs not to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of<g ref="char:punc">▪</g> Look into the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <hi>Rom.</hi> at 27, and you ſhall find the Apoſtle there to Anſwer in God's behalf, that it was a Recommence or Reward of their former Errors, or becauſe they chan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the truth of God into a lye, worſhip'd the Creature more than the Creator, and turn'd the Glory of an incorruptible God into the Image of a corruptible Man; and wherefore were they miſled with ſtrong deluſions, but becauſe they received not the love of the Truth, that they might be ſaved</p>
+            <p>Thus God as a juſt Judge, ſeeing the Heart of Man to be wholly bent upon Wickedneſs, doth inflict upon him the Spiritual Puniſhment of induration, ſlumber, blindneſs, or the like puniſhment, I ſay, for when Sin is plagn'd with Sin, as it is many times in the Wiſdom of God where<g ref="char:EOLhyphen"/>by he governeth the World, then it is not <hi>Peccatum</hi> but <hi>Judicium,</hi> not Sin, but Judgment; Thus St. <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>guſtin</hi> ſpeaking of the hardning of <hi>Pharoah</hi>'s Heart, he thus concludeth, <hi>God indeed did incline <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will of</hi> Phar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h, <hi>being Evil of it ſelf in this Sin, but it was by his Juſt and Secret Judgment. D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> non eſt Author Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cati, ut eſt Peccatum, ſed ut eſt <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>a P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>at;</hi> God i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Author of Sin, as it is Sin, but as it is the puniſhment of thoſe former Sins, which we have ſo preſumptuouſly committed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Divine Majeſty.</p>
+            <p>But (2dly,) The ſecond thing which I would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you to conſider is this, That whatſoever God doth in the Action of Sin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, as in hardning of <hi>Pharoah</hi>'s Heart, or any other the like Judgments, he doth it not by in<g ref="char:EOLhyphen"/>fuſing any Wickedneſs into their hearts; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> infuſed no Wickedneſs into the Heart of <hi>Pharoah,</hi> there was Infidelity, Obſtinacy, and Rebellion, before God did any thing in the matter, as it evidently appears by that Speech of his unto <hi>Moſes</hi> and <hi>A<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, Exod.</hi> 5.2. <hi>Who is the Lord th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I ſhould hear his Voice, and let</hi> Iſrael <hi>go, I know not the Lord, neither will I let</hi> Iſrael <hi>go.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:174114:7"/>Thus Reader, as this Doctrine hath been ſufficiently proved, ſuffer the Inſtructions, (I beſeech thee) ariſing from thence to be effectually enforced.</p>
+            <p>In the firſt place then, if God be not the mover unto evil, or the author of ſin, as the Apoſtle here affirmeth, then let no man attribute his ſin unto God, by ſaying, God moved me to do thus or thus: For <hi>perditio tua ex t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> O <hi>Iſrael,</hi> thy ſin is of thy ſelf, and thou art the cauſe of thy own ruine.</p>
+            <p>We cannot but be ſenſible that it is a great wickedneſs of this preſent Age too, too heatheniſh to impute the fault when they have ſinned unto the Stars and Planets, by ſaying they were born under a Malignant Planet, and that the Stars had fore-ſigned their going awry: But to this St. <hi>Auſtin</hi> an<g ref="char:EOLhyphen"/>ſwers, and ſaith, <hi>that the Grace of God doth not only excell all the Stars and Plan<g ref="char:EOLhyphen"/>ets in Heaven, but alſo controlleth the very Angels and Devils in Hell.</hi> And if you look into the 10th Chap. of <hi>Jeremiah</hi> at the 2d Verſe, you ſhall not only find this judicial Aſtrology to be condemned as a heatheniſh invention, but alſo the People of God to be forewarned that they ſhould not relye upon ſuch vain ſigns and conſtellations.</p>
+            <p>
+               <hi>2dly,</hi> Others there be which ſtick not at this only, but reach more imme<g ref="char:EOLhyphen"/>diately at God himſelf, by ſaying, God would have it thus, and thus; and if God would not, I could not have done it, for who can reſiſt his power.</p>
+            <p>Thus, when they have ſpilt the blood of the innocent, like water upon the ground, defiled their Neighbours beds, and provok'd Heaven with many preſumtuous ſins, as Rapes, Robberies, Murthers, Treaſons, and the like; they will ſpue out a Blaſphemy againſt God himſelf, by countenancing their ſins under his authority; and by pleading that they have done but the will of God, in committing ſuch wickedneſs againſt him.</p>
+            <p>'Tis true, but it is a will, againſt his will, that becauſe they did not value or regard that which God had publickly enjoyned them, they ſhould do another thing which he had privately determined; and he that fulfilleth the will of God in this manner, or rather the will of God is fulfilled upon him, will certainly, without timely and unfeigned repentance, periſh unto all Eternity.</p>
+            <p>I am now come to the ſecond Argument, which the Apoſtle produceth here to prove his for<g ref="char:EOLhyphen"/>mer propoſition, which is drawn from the corruption of Man's own Nature, ariſing out of theſe words, <hi>but every Man is tempted, when he is drawn away of his own luſt and enticed.</hi>
+            </p>
+            <p>As if the Apoſtle ſhould have ſaid here, but every Mans falling into any Sin, comes from himſelf, his own Treacherous ſenſual Appetite ſuggeſts, and tenders him ſome ſenſitive carnal baits, and ſo conſequently by them draws him out or his Courſe, and entices him unto Sin.</p>
+            <p>God then is neither the Mover, not the Author, nor the perfecter of any evil Action, that proceeds partly from our own Corruption, and partly from the ſuggeſtions of Satan: for our Natures being through the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt Parents corrupted, our deſires are defiled, and being defiled rebel againſt the rules and dictates of right Reaſon, and ſo hu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on headlong unto all uncleanneſs, to draw iniquity with cords of Vanity and ſin as it were with Cart-ropes.</p>
+            <p>Now what ſhall we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, that God is the cauſe of this Original Corruption, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly no, <hi>But every Man is tempted, when he is drawn away by his own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt and enticed.</hi>
+            </p>
+            <p>God placed Man at firſt in a perfect ſtate of happineſs, of innocently and integrity, for he made him pure in his Body, pure in his Soul, and pure in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Soul,</p>
+            <p n="1">
+               <pb n="14" facs="tcp:174114:8"/>1. For his Body, though it was formed out of the Duſt, yet we muſt conſider, that the Earth was not then corrupted, nor at that time infected, the Corruption came afterwards through the fall of <hi>Adam,</hi> when that curſe of God was laid upon it by reaſon of <hi>Adams</hi> Sin; <hi>Curſed is the Earth for thy ſake,</hi> Gen. 3.17. <hi>In ſorrow ſhalt thou eat of it all the days of thy life, Thorns alſo and Thiſtles ſhall it bring forth unto thee:</hi> Before that, Man was free, and had a poſ<g ref="char:EOLhyphen"/>ſibility to live for ever.</p>
+            <p n="2">2. For his Soul, it was moſt divine and heavenly, <hi>(Divinâ particulâ Aurae)</hi> being a ſpark of Divinity infuſed by God himſelf, who breathed into Man the breath of Life, and made it ſpiritual like unto himſelf: It was not of the Eſſence of God, for then it ſhould have been equal with God, but it was ſuch a workmanſhip, as did reſemble him in true holineſs and perfect integrity.</p>
+            <p n="3">3. As for the faculties of his Soul, they were likewiſe pure, his reaſon and underſtanding was clear, without any blindneſs or imperfection at all; His will was free from all Bondage, Coaction, or Compulſion whatſoever, ſo that none but himſelf could have brought any inconveniencies, or damage unto himſelf.</p>
+            <p>There's no fault then upon Gods ſide poſſibly to be found, no hard meaſure offer'd by him: He gave unto Man all things neceſſary and commodious for a pleaſant and an happy life, he gave him liberty and freedom to ſtand, what more could he deſire? It was miſerable Man then, that was the cauſe of his own ruine, who abuſed that power which God had given him, by ſuffering the Devil that great Enemy of Mankind, who always Enveighed at his proſ<g ref="char:EOLhyphen"/>perity, to beguile and poyſon him with an Apple, not by force, but by de<g ref="char:EOLhyphen"/>ceit, working on the Woman, the weaker Veſſel, ſhe being poyſoned, poyſo<g ref="char:EOLhyphen"/>neth her Husband, and the poyſon being contagious; ſpreads it ſelf through all the faculties both of Body and Soul, and that deadly too: For ſo God had ſaid before, <hi>in the day that thou eateſt thereof thou ſhalt ſurely dye,</hi> Gen. 2, 17. <hi>Man was now after all this, ſubject unto all infirmities, his Body to the Temporal, his Soul unto the Spiritual and eternal Death.</hi>
+            </p>
+            <p>There is neither Diſeaſe of the Body, nor Sickneſs of the Soul, but what came in with Sin, not unto <hi>Adam</hi> only, but unto us his Offſpring; for though at firſt he only ſinned, yet we are culpable through his Fact, and it is derived unto us both by imputation and propagation.</p>
+            <p n="1">1. By imputation, ſo ſaith the Apoſtle, Rom. 4, 19. <hi>By one Man's diſobe<g ref="char:EOLhyphen"/>dience many were made Sinners.</hi>
+            </p>
+            <p n="2">2. By Propagation, <hi>Ezek.</hi> 18, 2. <hi>The Fathers have eaten ſour Grapes, and the Childrens Teeth are ſet on edge.</hi>
+            </p>
+            <p>So that now (our natures being corrupted) the ſoundneſs and integrity of all the faculties therein are diſeaſed, the Image of God is wholly defaced, the Soul is taken up with a Maſs of Injuſtice, and we are ſubject to a neceſſity of Sinning.</p>
+            <p>
+               <pb n="15" facs="tcp:174114:8"/>For as it was true of Man in the State of Innocency, <hi>Poteſt non peccare,</hi> he might if he would, not have Sinned, becauſe God left him in the hands of his own Counſels, and gave him liberty both ways, either to Sin, or not to Sin; So now it is true in the State of Corruption, <hi>non poteſt non peccare,</hi> he cannot chooſe but ſin; the whole lump of his Nature being ſour'd with that antient Leaven; nor ſhall he ever be delivered from that Corruption, whereunto he is Subject, until he attains unto the State of glorification, wherein it ſhall as certainly be verified, <hi>non poteſt peccare,</hi> he cannot Sin, though he would, cor<g ref="char:EOLhyphen"/>ruption having put on incorruption, both in Body and Soul.</p>
+            <p>Which neceſſity of Sinning in the mean time is not in any external cauſe, but in the decayed Nature of Man, upon the fall whereof cometh Vanity in the Mind, and a frowardneſs in the Will, to depart from the living God.</p>
+            <p>Thus then you ſee the immediate cauſe of Sin, to be our own corruption and concupiſcenſe, which draweth us away from the rules of Reaſon, and the right Paths of Gods commandments: nor is this true only in the wick<g ref="char:EOLhyphen"/>ed and reprobate, but even in the deareſt Children of God; They are not free from this Original infection, they have many combats and conflicts in them.</p>
+            <p>There is <hi>Iſhmael</hi> againſt <hi>Iſaac,</hi> the Fleſh againſt the Spirit continually ſtri<g ref="char:EOLhyphen"/>ving; S. <hi>Paul</hi> himſelf complained hereof, Rom. 7, 23. <hi>He found one Law in his Mind, another in his Members, ſtriving againſt the Law of his Mind,</hi> and leading him from that which was true, juſt, and holy, unto the contrary which he did not allow of.</p>
+            <p>Thus then we ſtill ſee the former propoſition to be very true, <hi>viz.</hi> That God is not the mover unto Evil, nor the Author of Sin, but every Man is Tempted when he is drawn away by his own Luſt and enticed. For there is an abſolute Antipathy betwixt God and Sin, as being contrary to his divine Nature, which is pure and holy. Let no Man then ſay at any time, when he is tempted unto evil, God cauſed him to err, for he hath no need of Sinful Man; The Lord hateth all abomination of Errour, and they that fear God, love it not, ſaith the Son of <hi>Syrach, Eccles.</hi> 15.11, 12. Again in the laſt Verſe of that Chapter he hath Commanded no man to do wickedly, neither hath he given any man a Licenſe to Sin.</p>
+            <p>In the laſt place, this Doctrine may teach us all not to ſuffer our ſelves at any time to be drawn away by our own Luſt and Concupiſcence; not to heark<g ref="char:EOLhyphen"/>en to the dictates of our own corrupt Natures, but to endeavour with all immaginable reſiſtance to oppoſe thoſe unruly Motions, and evil inclinati<g ref="char:EOLhyphen"/>ons, which do daily tempt and ſolicite us to violate the ſacred Laws of our Maker.</p>
+            <p>In a word, whenſoever the Devil ſhall aſſault us by any manner of Temp<g ref="char:EOLhyphen"/>tation, let us I beſeech you both remember and practiſe what S. <hi>Peter</hi> hath preſcribed unto us 1. <hi>Peter</hi> 5.9. <hi>Whom reſiſt ſtedfaſt in the Faith, and by how
+<pb facs="tcp:174114:9"/>much the De<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he more watchful for his Prey, let us I beſeech you, be ſo m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the more watchful unto prayer to withſtand him.</hi>
+            </p>
+            <p>It is good Advice, which the Wiſeman gives, <hi>viz.</hi> That we ſhould giv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the water no Paſſage, no not a little; ſo we ſhould give as ſmall an entranc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto Satan as poſſibly may be, for let but one foul Spirit enter and reſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> while in thy Soul, and by and by Legions will be there, and then Satan wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be like the Centurions Servant in one part, but not in the other; bid his come and he comes preſently, but bid him go and he will not be gone with<g ref="char:EOLhyphen"/>out much ado, for if you once give him an Inch, he'll be ſure to take an Ell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Let us therefore <hi>(obſtare principiis)</hi> withſtand him in the beginning of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſaults, and ſtifle our ſins in their firſt conception, before they are brough<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth into action, for <hi>when once Luſt hath conceived, it bringeth forth ſin, and ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when it is finiſhed bringeth forth death,</hi> death and deſtruction both to body and ſoul, and a final rejection from God and all divine Mercies, which man by ſin hath juſtly deſerved from the hand of his Creator.</p>
+            <p>I might indeed here enlarge a great deal more, but I think it needleſs having made out the main points of the Text, and anſwered all the objection<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that might poſſibly have been brought to oppoſe it.</p>
+            <p>So I beſeech all that bear the name of Chriſtians, to abandon every wicked conceit, or opinion of their Maker, and likewiſe not to be any way concer<g ref="char:EOLhyphen"/>ned for the non-apprehenſion of thoſe ſublime myſteries, which he doth no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> think either profitable, or convenient for us to be acquainted with: Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let us all unanimouſly joyn in the diligent fulfilling this moſt ſeaſonable and excellent advice of <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lomon,</hi> Fear God and keep his Commandments for this is the Whole Duty of Man; This is indeed the Will of God, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end of all our obligations to him, with which we are charged, and to which w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are all enjoyned: But as for the Books of God's Councils and ſecret Decrees which are claſped up, that no man may read them, let us leave them unto th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lamb and bleſſed Trinity; But thoſe of <hi>Moſes,</hi> and the Prophets, of Chriſt, and his Apoſtles, are written for our Inſtruction, and for our Poſteritie's after us Theſe let us ſearch, and inquire into with all imaginable care and diligence and with reverence and ſubmiſſion, let us with the Prophet <hi>David</hi> Meditat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon them day, and Night, that hereby our Sinful Souls may be amended and ſaved finally in the day of our Lord <hi>Jeſus. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
